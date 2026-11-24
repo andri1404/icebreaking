@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #fdfcf8;
+  --fg: #23272e;
+  --muted: #5b6472;
+  --card: #ffffff;
+  --border: #e7e2d8;
+}
+
+.dark {
+  --bg: #14181f;
+  --fg: #f2f4f7;
+  --muted: #9aa5b5;
+  --card: #1d232d;
+  --border: #2c3440;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-body), system-ui, sans-serif;
+}
+
+/* Fokus keyboard yang jelas dan konsisten */
+:focus-visible {
+  outline: 3px solid #fbb724;
+  outline-offset: 2px;
+  border-radius: 8px;
+}
+
+/* Mode presentasi: teks besar untuk proyektor */
+html.presentasi body {
+  font-size: 1.18rem;
+}
+html.presentasi .font-display {
+  letter-spacing: 0.01em;
+}
+
+/* Nyala rapiditas: animasi ringan, hormati prefers-reduced-motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes pop-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to { opacity: 1; transform: scale(1); }
+}
+.animate-pop-in { animation: pop-in 0.25s ease-out both; }
+
+@keyframes spin-wheel {
+  to { transform: rotate(var(--wheel-rot, 1440deg)); }
+}
+
+/* Gaya cetak (Ctrl+P → simpan sebagai PDF) */
+@media print {
+  header, footer, nav, .no-print { display: none !important; }
+  body { background: #fff !important; color: #000 !important; font-size: 11pt; }
+  .print-card { break-inside: avoid; box-shadow: none !important; border: 1px solid #ddd !important; }
+  a[href]::after { content: ""; }
+}

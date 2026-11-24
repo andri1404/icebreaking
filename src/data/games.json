@@ -1,0 +1,1079 @@
+[
+  {
+    "id": "rantai-nama",
+    "nama": "Rantai Nama",
+    "kategori": "Perkenalan",
+    "deskripsi": "Peserta berdiri melingkar dan merangkai nama dengan gerakan khas, satu per satu.",
+    "durasiMenit": 10,
+    "pesertaMin": 5,
+    "pesertaMax": 30,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Menghafal nama semua peserta dengan cepat",
+      "Mencairkan suasana awal sesi"
+    ],
+    "langkah": [
+      "Bentuk lingkaran, semua berdiri.",
+      "Peserta pertama menyebut nama disertai gerakan khas (misal melambai).",
+      "Peserta berikutnya mengulang nama + gerakan peserta sebelumnya, lalu menambahkan miliknya.",
+      "Lanjut sampai satu putaran penuh; fasilitator ikut serta di akhir."
+    ],
+    "variasi": [
+      "Tambahkan satu kata sifat yang berawalan huruf sama dengan nama (Rina Rajin).",
+      "Tim yang paling cepat menyelesaikan rantai tanpa salah mendapat poin."
+    ],
+    "tips": [
+      "Berdirilah ikut dalam lingkaran, bukan di luar, agar terasa setara.",
+      "Jika peserta banyak (>20), pecah menjadi 2 lingkaran."
+    ],
+    "populer": true,
+    "tags": [
+      "indoor",
+      "tatap muka",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "dua-benar-satu-putus",
+    "nama": "Dua Benar Satu Putus",
+    "kategori": "Perkenalan",
+    "deskripsi": "Setiap orang menyebut tiga fakta tentang dirinya; satu di antaranya bohong, teman menebak.",
+    "durasiMenit": 15,
+    "pesertaMin": 4,
+    "pesertaMax": 20,
+    "usia": "SMA Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Mengenal fakta unik tiap peserta",
+      "Melatih berani tampil dan berbicara"
+    ],
+    "langkah": [
+      "Setiap peserta menuliskan/menyiapkan 3 pernyataan tentang dirinya.",
+      "Satu per satu membacakan ketiganya dengan ekspresi datar.",
+      "Peserta lain menebak pernyataan mana yang bohong.",
+      "Penebak tepat mendapat tepuk tangan; lanjut peserta berikutnya."
+    ],
+    "variasi": [
+      "Gunakan polling acungan jari 1-2-3 agar semua ikut menebak.",
+      "Untuk kelas besar, lakukan berkelompok 5-6 orang."
+    ],
+    "tips": [
+      "Contohkan dulu dari fasilitator agar peserta paham tingkat kejelian.",
+      "Dilarang fakta yang menyinggung SARA atau membuat peserta tidak nyaman."
+    ],
+    "populer": true,
+    "tags": [
+      "indoor",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "wawancara-dua-menit",
+    "nama": "Wawancara Dua Menit",
+    "kategori": "Perkenalan",
+    "deskripsi": "Berpasangan, mewawancarai pasangan 2 menit lalu memperkenalkannya ke grup.",
+    "durasiMenit": 15,
+    "pesertaMin": 4,
+    "pesertaMax": 40,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [
+      "Alat tulis (opsional)"
+    ],
+    "tujuan": [
+      "Melatih mendengarkan aktif",
+      "Memperkenalkan orang lain, bukan diri sendiri"
+    ],
+    "langkah": [
+      "Pasangkan peserta (idealnya yang belum kenal).",
+      "Beri 2 menit wawancara: nama, asal, hobi, satu hal menarik.",
+      "Tukar peran, 2 menit lagi.",
+      "Secara bergiliran setiap orang memperkenalkan pasangannya ke kelas."
+    ],
+    "variasi": [
+      " Tentangkan tema wawancara sesuai materi sesi.",
+      "Buat papan \"human library\" sederhana: tempel hasil ringkas di dinding."
+    ],
+    "tips": [
+      "Gunakan timer agar ritme cepat.",
+      "Tantang peserta menyebut satu kata paling menggambarkan pasangannya."
+    ],
+    "tags": [
+      "indoor",
+      "berpasangan"
+    ]
+  },
+  {
+    "id": "silent-line-up",
+    "nama": "Barisan Senyap",
+    "kategori": "Fokus & Konsentrasi",
+    "deskripsi": "Peserta berbaris berdasarkan kriteria tertentu (tanggal lahir, tinggi) tanpa bersuara.",
+    "durasiMenit": 10,
+    "pesertaMin": 8,
+    "pesertaMax": 40,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih komunikasi nonverbal",
+      "Menenangkan kelas yang riuh"
+    ],
+    "langkah": [
+      "Umumkan kriteria barisan, misal urutan tanggal lahir (tanpa tahun).",
+      "Semua peserta dilarang bersuara; hanya boleh isyarat tangan.",
+      "Beri batas waktu 3-5 menit.",
+      "Minta beberapa peserta mengumumkan tanggalnya untuk verifikasi berurutan."
+    ],
+    "variasi": [
+      "Kriteria: jumlah saudara, panjang rambut, jarak rumah ke sekolah.",
+      "Bagi jadi 2 tim dan adu barisan tercepat."
+    ],
+    "tips": [
+      "Ideal setelah jam istirahat untuk menenangkan kelas.",
+      "Amati siapa yang muncul sebagai pengatur alami — catat untuk pembagian kelompok."
+    ],
+    "tags": [
+      "tanpa alat",
+      "kelas besar"
+    ]
+  },
+  {
+    "id": "cermin-gerak",
+    "nama": "Cermin Gerak",
+    "kategori": "Fokus & Konsentrasi",
+    "deskripsi": "Berpasangan seperti cermin; satu memimpin gerakan, satu meniru persis.",
+    "durasiMenit": 8,
+    "pesertaMin": 4,
+    "pesertaMax": 40,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih perhatian penuh (mindfulness ringan)",
+      "Menyamakan ritme kelompok"
+    ],
+    "langkah": [
+      "Berpasangan saling berhadapan, jarak ±1 meter.",
+      "Satu orang jadi \"pemimpin\", menggerakkan tangan perlahan; partner meniru seperti bayangan cermin.",
+      "Setelah 2 menit tukar peran.",
+      "Tantang terakhir: tanpa pemimpin, keduanya bergerak selaras."
+    ],
+    "variasi": [
+      "Gunakan musik lambat sebagai penyangga ritme.",
+      "Buat cermin kelompok: satu pemimpin, 4-5 peniru."
+    ],
+    "tips": [
+      "Gerakan harus lambat agar terlihat seperti pantulan, bukan tarian.",
+      "Cocok sebagai jeda di tengah sesi materi padat."
+    ],
+    "tags": [
+      "tanpa alat",
+      "tenang"
+    ]
+  },
+  {
+    "id": "pola-tepuk",
+    "nama": "Pola Tepuk",
+    "kategori": "Fokus & Konsentrasi",
+    "deskripsi": "Kelas meniru pola tepuk yang bertambah panjang tiap putaran.",
+    "durasiMenit": 6,
+    "pesertaMin": 5,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Mengasah daya ingat jangka pendek",
+      "Mengumpulkan perhatian seluruh kelas"
+    ],
+    "langkah": [
+      "Fasilitator memberi pola tepuk pendek: tepuk-paha-tepuk.",
+      "Semua meniru bersama, dua kali.",
+      "Katakan \"tambah!\": pola diperpanjang satu elemen.",
+      "Lanjut hingga pola 8-10 elemen atau hingga suasana fokus tercapai."
+    ],
+    "variasi": [
+      "Tambah variasi suara (petik, cespleng, suara mulut).",
+      "Ganti pemimpin pola: peserta maju membuat pola sendiri."
+    ],
+    "tips": [
+      "Efektif untuk menenangkan kelas 30 detik saja.",
+      "Utamakan ritme pelan-laras (lambat tapi konsisten) di putaran awal."
+    ],
+    "tags": [
+      "kelas besar",
+      "tanpa alat",
+      "jeda pendek"
+    ]
+  },
+  {
+    "id": "hula-mesin",
+    "nama": "Mesin Ajaib",
+    "kategori": "Kerja Sama Tim",
+    "deskripsi": "Tim membangun \"mesin\" dari tubuh anggota; tiap orang jadi satu bagian mesin.",
+    "durasiMenit": 15,
+    "pesertaMin": 5,
+    "pesertaMax": 30,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Membangun sinkronisasi kelompok",
+      "Melatih kreativitas kolektif"
+    ],
+    "langkah": [
+      "Bagi kelompok 5-7 orang.",
+      "Tantang: ciptakan mesin pengolah paling konyol (mis. mesin pembuat senyum).",
+      "Setiap anggota menjadi satu bagian mesin dengan gerakan + bunyi berulang.",
+      "Mesin harus hidup: jika satu bagian berhenti, semua ikut berhenti."
+    ],
+    "variasi": [
+      "Putar mesin dengan kecepatan berbeda lewat aba-aba fasilitator.",
+      "Adilih mesin paling sinkron, bukan paling lucu."
+    ],
+    "tips": [
+      "Berikan contoh mesin sederhana dulu agar bayangan peserta terbuka.",
+      "Jaga ruang gerak cukup agar tidak ada tubrukan."
+    ],
+    "tags": [
+      "outdoor",
+      "indoor",
+      "kelompok"
+    ]
+  },
+  {
+    "id": "simpul-manusia",
+    "nama": "Simpul Manusia",
+    "kategori": "Kerja Sama Tim",
+    "deskripsi": "Lingkaran saling pegang tangan acak lalu menyimpulkannya tanpa lepas.",
+    "durasiMenit": 15,
+    "pesertaMin": 8,
+    "pesertaMax": 14,
+    "usia": "SMP Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih pemecahan masalah bersama",
+      "Menumbuhkan komunikasi terstruktur"
+    ],
+    "langkah": [
+      "Berdiri melingkar rapat.",
+      "Setiap orang menggenggam tangan dua orang berbeda yang tidak bertetangga.",
+      "Tanpa melepas genggaman, kelompok meluruhkan simpul menjadi lingkaran.",
+      "Boleh berkomunikasi; satu orang ditunjuk sebagai pengamat arah."
+    ],
+    "variasi": [
+      "Bisakan satu anggota (pantomin) untuk menaikkan tantangan.",
+      "Dua kelompok berlomba waktu."
+    ],
+    "tips": [
+      "Ingatkan gerakan hati-hati, jangan menarik lengan paksa.",
+      "Ideal 8-12 orang; lebih dari itu simpul terlalu sulit."
+    ],
+    "populer": true,
+    "tags": [
+      "kelompok",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "menara-sedotan",
+    "nama": "Menara Sedotan",
+    "kategori": "Kerja Sama Tim",
+    "deskripsi": "Tim membangun menara tertinggi dari sedotan dan lakban dalam waktu terbatas.",
+    "durasiMenit": 20,
+    "pesertaMin": 4,
+    "pesertaMax": 30,
+    "usia": "SMP Umum",
+    "perluAlat": true,
+    "alat": [
+      "Sedotan 20 batang/tim",
+      "Lakban/ selotip",
+      "Penggaris meteran"
+    ],
+    "tujuan": [
+      "Melatih pembagian peran dalam tim",
+      "Pengambilan keputusan cepat"
+    ],
+    "langkah": [
+      "Bagi kelompok 4-5 orang, bagikan bahan.",
+      "Aturan: menara berdiri bebas, dibangun 10 menit.",
+      "Mulai stopwatch; fasilitator mengumumkan sisa waktu tiap 2 menit.",
+      "Ukur tinggi dan beri apresiasi untuk kategori: tertinggi, terkuat, paling kreatif."
+    ],
+    "variasi": [
+      "Naikkan kesulitan: salah satu anggota tidak boleh bicara.",
+      "Ganti bahan: koran bekas + lakban."
+    ],
+    "tips": [
+      "Arahkan diskusi \"rencanakan dulu, baru bangun\" agar tidak langsung asal susun.",
+      "Sediakan penghargaan simbolis untuk semua tim (tepuk tangan kreatif)."
+    ],
+    "tags": [
+      "indoor",
+      "kelompok",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "lapis-udara",
+    "nama": "Lapis Udara",
+    "kategori": "Kerja Sama Tim",
+    "deskripsi": "Bawa bola di antara punggung tangan berantai; jatuh = mulai dari awal.",
+    "durasiMenit": 12,
+    "pesertaMin": 6,
+    "pesertaMax": 30,
+    "usia": "SD-SMP",
+    "perluAlat": true,
+    "alat": [
+      "Bola kecil/balon beberapa buah"
+    ],
+    "tujuan": [
+      "Menyinkronkan langkah dan tempo tim",
+      "Melatih ketahanan terhadap kegagalan"
+    ],
+    "langkah": [
+      "Bariskan tim 5-6 orang membentuk 2 deret saling berhadapan.",
+      "Bola dijepit di antara punggung tangan kanan dua peserta bersebelahan.",
+      "Pindahkan benda dari depan ke belakang tanpa dipegang telapak tangan.",
+      "Jika jatuh, ulang dari awal; tim tercepat menang."
+    ],
+    "variasi": [
+      "Buat dua jalur sekaligus (bola kanan dan kiri).",
+      "Putar musik; jika musik berhenti, tim berhenti (freeze)."
+    ],
+    "tips": [
+      "Ukur lapangan yang aman dari halangan.",
+      "Pastikan tim menganalisis penyebab jatuh, bukan menyalahkan anggota."
+    ],
+    "tags": [
+      "outdoor",
+      "kelompok",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "tepuk-salam",
+    "nama": "Tepuk Salam 21",
+    "kategori": "Energizer",
+    "deskripsi": "Tepuk salam berkeliling berlawanan arah; jika bertemu, tepuk tangan dan berbalik arah.",
+    "durasiMenit": 7,
+    "pesertaMin": 10,
+    "pesertaMax": 40,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Menaikkan energi kelas dengan cepat",
+      "Memancing tawa dan keceriaan"
+    ],
+    "langkah": [
+      "Bentuk lingkaran; dua orang bertetangga mulai berjalan di lingkaran.",
+      "Ketika dua pejalan bertemu, keduanya tepuk tangan lalu berbalik arah.",
+      "Tambahkan pejalan hingga 4-5 orang berjalan bersamaan.",
+      "Akhir dengan semua peserta berjalan dan saling tepuk."
+    ],
+    "variasi": [
+      "Ganti tepuk tangan dengan salam unik (high ten, jempol).",
+      "Bisikan kata kunci materi ti kali bertemu."
+    ],
+    "tips": [
+      "Jaga jarak aman antar pejalan di lingkaran kecil.",
+      "Cocok 5-7 menit; lebih lama dari itu energi turun."
+    ],
+    "tags": [
+      "indoor",
+      "kelas besar",
+      "energi"
+    ]
+  },
+  {
+    "id": "empok-opung",
+    "nama": "Cepat Reaksi: 1-2-3",
+    "kategori": "Energizer",
+    "deskripsi": "Permainan reaksi cepat; salah aba-aba = juru tepuk.",
+    "durasiMenit": 5,
+    "pesertaMin": 5,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Membangunkan kelas yang mengantuk",
+      "Melatih pendengaran dan reaksi"
+    ],
+    "langkah": [
+      "Sepakati tiga aba-aba: 1 = berdiri, 2 = duduk, 3 = lompat.",
+      "Fasilitator meneriakkan angka secara acak dan cepat.",
+      "Salah gerak pun tidak dihukum; cukup jadi pemicu tawa.",
+      "Tantang naik: sebut angka dua kolom (\"satu-tiga\") untuk gerak gabungan."
+    ],
+    "variasi": [
+      "Buat aba-aba terkait materi (nama bilangan = gerakan biologi, dll).",
+      "Mode elimination untuk kelompok kecil yang kompetitif."
+    ],
+    "tips": [
+      "Aba-aba makin cepat makin efektif.",
+      "Hindari gerakan berisiko fisik di ruangan sempit."
+    ],
+    "tags": [
+      "jeda pendek",
+      "kelas besar",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "ganti-kursi",
+    "nama": "Ganti Tempat!",
+    "kategori": "Energizer",
+    "deskripsi": "Pernyataan \"aku suka orang yang...\" memaksa peserta berganti tempat duduk.",
+    "durasiMenit": 10,
+    "pesertaMin": 8,
+    "pesertaMax": 30,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Menghidupkan energi sekaligus mengenal preferensi teman",
+      "Menggeser pola duduk yang statis"
+    ],
+    "langkah": [
+      "Semua duduk melingkar, satu orang di tengah tanpa tempat duduk.",
+      "Orang tengah menyebut: \"Aku suka orang yang memakai jam tangan!\"",
+      "Semua yang sesuai kriteria wajib pindah tempat duduk.",
+      "Yang tanpa tempat duduk melanjutkan dengan kriteria berikutnya."
+    ],
+    "variasi": [
+      "Bisakan kriteria (cuma isyarat) untuk variasi senyap.",
+      "Bung kriteria dengan materi: \"Aku suka orang yang bisa menyebut 3 jenis tumbuhan!\""
+    ],
+    "tips": [
+      "Ingatkan larangan berpindah ke kursi terdekat saja — wajib menyeberang.",
+      "Bagus untuk memecah cliqu (kelompok kecil yang selalu bersama)."
+    ],
+    "tags": [
+      "indoor",
+      "energi"
+    ]
+  },
+  {
+    "id": "buaya-bangun",
+    "nama": "Buaya Bangun",
+    "kategori": "Energizer",
+    "deskripsi": "Bangun dengan lutut menyatu tanpa tangan menyentuh lantai dan tanpa terpleset.",
+    "durasiMenit": 5,
+    "pesertaMin": 4,
+    "pesertaMax": 40,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Fisik mikro dan tawa",
+      "Menghangatkan tubuh sebelum aktivitas gerak"
+    ],
+    "langkah": [
+      "Semua jongkok berpegangan pada lutut masing-masing.",
+      "Pada aba-aba, bangun berdiri tanpa melepas tangan dari lutut.",
+      "Yang berhasil bersorak; yang jatuh tertawa bersama.",
+      "Balik: mulai berdiri, turun jongkok dengan aturan yang sama."
+    ],
+    "variasi": [
+      "Naikkan kesulitan: bangunkan berpasangan (saling berpegangan).",
+      "Lakukan per kelompok berlomba waktu."
+    ],
+    "tips": [
+      "Hindari lantai licin, keringat mengubah titik tumpu.",
+      "Khusus peserta dewasa/lansia, ubah menjadi mode tanpa kompetisi."
+    ],
+    "tags": [
+      "fisik",
+      "energi",
+      "indoor"
+    ]
+  },
+  {
+    "id": "hitung-bersama",
+    "nama": "Hitung Sampai Dua Puluh",
+    "kategori": "Fokus & Konsentrasi",
+    "deskripsi": "Kelompok menghitung 1-20 bergiliran tanpa aturan giliran yang ditetapkan.",
+    "durasiMenit": 10,
+    "pesertaMin": 6,
+    "pesertaMax": 20,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih kesadaran kelompok tanpa pemimpin",
+      "Membangun kesabaran dan perhatian"
+    ],
+    "langkah": [
+      "Semua menutup mata atau menunduk.",
+      "Satu orang boleh menyebut satu angka kapan saja, mulai dari 1.",
+      "Jika dua orang bersuara bersamaan, hitungan mulai dari 0.",
+      "Berhasil jika mencapai 20 tanpa tumpang tindih suara."
+    ],
+    "variasi": [
+      "Naikkan target ke 30 atau 50.",
+      "Ganti angka dengan huruf alfabet atau nama-nama benda tema pelajaran."
+    ],
+    "tips": [
+      "Tekankan: ini bukan lomba cepat, tapi lomba menyadar.",
+      "Kegagalan berulang justru memancing nilai kerja sama — nikmati prosesnya."
+    ],
+    "tags": [
+      "tenang",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "katak-di-batu",
+    "nama": "Katak di Batu",
+    "kategori": "Energizer",
+    "deskripsi": "Jika \"kurak\" disebut bersamaan dengan \"katak\", peserta melompat; selain itu tidak.",
+    "durasiMenit": 6,
+    "pesertaMin": 5,
+    "pesertaMax": 40,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih pendengaran selektif",
+      "Memancing tawa massal"
+    ],
+    "langkah": [
+      "Ceritakan cerita pendek; sisipkan kata \"kurak\", \"karung\", \"katak\", \"kurang\".",
+      "Hanya kata \"katak\" yang boleh diikuti lompatan.",
+      "Yang tertipu oleh kata jebakan jadi pemicu tawa, tidak dihukum.",
+      "Akhir: cerita makin cepat, sisipan kata makin rapat."
+    ],
+    "variasi": [
+      "Ganti kata kunci sesuai materi pelajaran.",
+      "Peragakan satu siswa sebagai narator."
+    ],
+    "tips": [
+      "Pilih kata jebakan yang bunyinya mirip (kwak, kroak) agar menantang.",
+      "Sediakan kata \"reset\" agar peserta tertawa bersamaan saat salah massal."
+    ],
+    "tags": [
+      "energi",
+      "SD",
+      "naratif"
+    ]
+  },
+  {
+    "id": "salam-beda",
+    "nama": "Salam Paling Aneh",
+    "kategori": "Perkenalan",
+    "deskripsi": "Berpasangan menciptakan salam unik dan menularkannya ke orang lain.",
+    "durasiMenit": 12,
+    "pesertaMin": 8,
+    "pesertaMax": 40,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Memperkenalkan diri lewat gerak",
+      "Menularkan kegembiraan antar peserta"
+    ],
+    "langkah": [
+      "Berpasangan, ciptakan salam 3-5 detik (gerak + ucapan) yang unik.",
+      "Lepas, cari pasangan baru: ajarikan salam lama, pelajari salam pasangan baru.",
+      "Ulangi 3-4 putaran dengan pasangan berbeda.",
+      "Tutup: seluruh kelas melakukan salam favorit bersama-sama."
+    ],
+    "variasi": [
+      "Setiap salam wajib memuat satu kata dari materi sesi.",
+      "Buat salam kelas untuk digunakan selama satu semester."
+    ],
+    "tips": [
+      "Putar musik ceria sebagai pembingkah.",
+      "Jangan sampai one-pair dominating: pastikan bergilir teratur."
+    ],
+    "tags": [
+      "energi",
+      "indoor",
+      "berpasangan"
+    ]
+  },
+  {
+    "id": "bendera-puter",
+    "nama": "Bendera Kibar Cerita",
+    "kategori": "Refleksi",
+    "deskripsi": "Menggambar bendera simbol yang mewakili pengalaman belajar, lalu menjelaskannya.",
+    "durasiMenit": 20,
+    "pesertaMin": 4,
+    "pesertaMax": 30,
+    "usia": "Umum",
+    "perluAlat": true,
+    "alat": [
+      "Kertas A4",
+      "Alat tulis warna"
+    ],
+    "tujuan": [
+      "Refleksi nonverbal atas pengalaman belajar",
+      "Melatih metafora dan pemaknaan"
+    ],
+    "langkah": [
+      "Setiap peserta menggambar lambang bendera tentang satu hal yang paling melekat dari sesi.",
+      "Lambang bebas: simbol, kata, abstrak.",
+      "Berikan waktu 5 menit menggambar, tanpa nilai artistik.",
+      "Berkeliling/menyebut satu per satu; fasilitator merangkum benang merah."
+    ],
+    "variasi": [
+      "Tulis lengkung singkat di bawah bendera sebagai moto belajar.",
+      "Gabungkan bendera kelompok menjadi satu panji kelas."
+    ],
+    "tips": [
+      "Sediakan contoh satu bendera buatan fasilitator.",
+      "Untuk peserta yang tak suka menggambar, izinkan menulis tiga kata."
+    ],
+    "tags": [
+      "karya",
+      "refleksi",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "kota-masa-lalu",
+    "nama": "Kota Masa Lalu",
+    "kategori": "Refleksi",
+    "deskripsi": "Menggambarkan pengalaman belajar sebagai wilayah peta: kota suka, gunung susah, jalan di depan.",
+    "durasiMenit": 25,
+    "pesertaMin": 4,
+    "pesertaMax": 24,
+    "usia": "SMP Umum",
+    "perluAlat": true,
+    "alat": [
+      "Kertas besar per kelompok",
+      "Spidol"
+    ],
+    "tujuan": [
+      "Refleksi mendalam dengan bahasa visual",
+      "Menamai tantangan dan rencana lanjut"
+    ],
+    "langkah": [
+      "Bagi kelompok 3-4; tiap kelompok menggambar peta perjalanan belajarnya.",
+      "Elemen wajib: kota awal, gunung tantangan, sungai pendukung, jalan ke depan.",
+      "Presentasi 90 detik per kelompok.",
+      "Fasilitator mencatat kesamaan antar peta sebagai penutup."
+    ],
+    "variasi": [
+      "Buat peta perjalanan satu semester penuh.",
+      "Ubah menjadi peta rencana ke depan (proyeksi, bukan masa lalu)."
+    ],
+    "tips": [
+      "Open dengan pertanyaan: \"kapan Anda merasa tersesat?\"",
+      "Jaga waktu presentasi ketat agar semua kebagian."
+    ],
+    "tags": [
+      "kelompok",
+      "refleksi",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "satu-kata",
+    "nama": "Satu Kata",
+    "kategori": "Refleksi",
+    "deskripsi": "Menjelaskan pengalaman belajar hanya dengan satu kata (lalu satu frasa).",
+    "durasiMenit": 8,
+    "pesertaMin": 4,
+    "pesertaMax": 40,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Refleksi cepat menyeluruh",
+      "Menghargai suara setiap peserta"
+    ],
+    "langkah": [
+      "Beri 30 detik berpikir tanpa bicara.",
+      "Giliran cepat: sebut satu kata yang mendeskripsikan perasaan hari ini.",
+      "Putaran kedua (opsional): satu frasa apa adanya.",
+      "Fasilitator menutup dengan membacakan kata-kata yang muncul berulang."
+    ],
+    "variasi": [
+      "Tulis di sticky note lalu tempelkan di papan perasaan.",
+      "Gunakan untuk buka sesi (ekspektasi) dan tutup sesi (refleksi)."
+    ],
+    "tips": [
+      "Tidak ada kata yang salah; jangan menyanggah kata peserta.",
+      "Anjurkan mendengarkan teman, karena pola kata kelas adalah data fasilitator."
+    ],
+    "tags": [
+      "tanpa alat",
+      "cepat",
+      "refleksi"
+    ]
+  },
+  {
+    "id": "mata-tertutup",
+    "nama": "Mata Tertutup, Cerita Dibaca",
+    "kategori": "Refleksi",
+    "deskripsi": "Menutup mata, dipandu imajinasi menuju makna penutup sesi.",
+    "durasiMenit": 10,
+    "pesertaMin": 4,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Menenangkan kelas",
+      "Mengubah energi tinggi jadi reflektif"
+    ],
+    "langkah": [
+      "Minta peserta duduk nyaman, mata terpejam.",
+      "Fasilitator membacakan panduan imajinasi pelan dengan tempo stabil.",
+      "Sisipkan tiga pertanyaan: apa yang kuingat, apa yang kupelajari, apa yang kubawa pulang.",
+      "Buka mata perlahan; peserta menuliskan satu kalimat pemantik."
+    ],
+    "variasi": [
+      "Putar instrumental lembut sebagai latar.",
+      "Perbanyak jeda hingga 3-4 detik antar kalimat."
+    ],
+    "tips": [
+      "Tuliskan naskah panduan agar tidak kehabisan kata.",
+      "Bagus setelah aktivitas fisik tinggi, untuk menurunkan tempo."
+    ],
+    "tags": [
+      "tenang",
+      "penutup",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "memindah-tinta",
+    "nama": "Menyalin Tinta",
+    "kategori": "Fokus & Konsentrasi",
+    "deskripsi": "Menyalin bentuk sederhana dari ingatan; latihan ketelitian dan ingat visual.",
+    "durasiMenit": 10,
+    "pesertaMax": 40,
+    "usia": "SD",
+    "perluAlat": true,
+    "alat": [
+      "Kertas",
+      "Pensil",
+      "Gambar contoh (kartu bentuk)"
+    ],
+    "tujuan": [
+      "Mengasah ingatan visual",
+      "Latihan ketelitian"
+    ],
+    "langkah": [
+      "Tunjukkan kartu bentuk (garis-garis geometris) selama 5 detik.",
+      "Sembunyikan; peserta menggambar ulang dari ingatan.",
+      "Bandingkan dengan kartu; diskusikan strategi mengingat.",
+      "Naikkan level: bentuk diperlihatkan lebih singkat atau lebih rumit."
+    ],
+    "variasi": [
+      "Ganti bentuk dengan rangkaian kata/angka.",
+      "Buat mode tim: satu melihat, satu menggambar, bergantian."
+    ],
+    "tips": [
+      "Arahkan peserta menamai berkat bagian bentuk (\"lengan, kaki, bendera\").",
+      "Banyak peserta menemukan strategi bercerita tentang bentuk — hargai itu."
+    ],
+    "tags": [
+      "dengan alat",
+      "indoor",
+      "indoor"
+    ],
+    "pesertaMin": 4
+  },
+  {
+    "id": "jembatan-kertas",
+    "nama": "Jembatan Kertas",
+    "kategori": "Kerja Sama Tim",
+    "deskripsi": "Jembatan kertas yang mampu menahan beban paling berat, dibangun dalam 15 menit.",
+    "durasiMenit": 25,
+    "pesertaMin": 6,
+    "pesertaMax": 30,
+    "usia": "SMP Umum",
+    "perluAlat": true,
+    "alat": [
+      "Kertas HVS 10 lembar/tim",
+      "Lakban 1 meter/tim",
+      "Beban uji (koin/buku kecil)"
+    ],
+    "tujuan": [
+      "Berlatih desain dan tawar-menawar gagasan",
+      "Menerima kegagalan dan iterasi"
+    ],
+    "langkah": [
+      "Bagi tim 4-5 orang, bagikan bahan.",
+      "Target: jembatan membentang 30 cm di antara dua meja, menahan beban terberat.",
+      "Bangun 15 menit; uji satu per satu dengan menambah beban bertahap.",
+      "Debrief: apa keputusan terbaik dan terburuk saat mendesain?"
+    ],
+    "variasi": [
+      "Tambahkan pembatas: jembatan wajib punya tikungan.",
+      "Beban uji sebelum/sesudah boleh diperbaiki 2 menit pada mode iterasi."
+    ],
+    "tips": [
+      "Arahkan sketsa dulu 2 menit sejak menempel.",
+      "Tegaskan uji gagal bukanlah tamat: kegagalan adalah data iterasi."
+    ],
+    "populer": true,
+    "tags": [
+      "STEM",
+      "kelompok",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "lurus-tapi-rapat",
+    "nama": "Baris Rapat",
+    "kategori": "Energizer",
+    "deskripsi": "Permainan mengatur jarak orang; peserta harus serapat mungkin tanpa menyentuh.",
+    "durasiMenit": 8,
+    "pesertaMin": 8,
+    "pesertaMax": 30,
+    "usia": "SD-SMP",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Melatih kesadaran ruang dan tubuh",
+      "Kesepakan batas nyaman antar peserta"
+    ],
+    "langkah": [
+      "Peserta berkeliling bebas di ruangan.",
+      "Aba-aba: \"rapat!\" semua baris paling rapat mungkin tanpa menyentuh.",
+      "Aba-aba: \"jauh!\" semua menjauh, menjaga jarak lengan.",
+      "Tantang variasi: rapat ala barisan militer, rapat tapi tertawa bersama."
+    ],
+    "variasi": [
+      "Tambahkan aba-aba bentuk: \"segitiga!\" \"huruf U!\"",
+      "Bagian mata terpejam (dengan pasangan pengawal) untuk versi kepercayaan."
+    ],
+    "tips": [
+      "Jelaskan kesepakatan batas wilayah nyaman tubuh.",
+      "Kelas besar: gunakan ujung ruangan saja agar tidak berdesakan di pintu."
+    ],
+    "tags": [
+      "energi",
+      "kesehatan",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "tebak-suara",
+    "nama": "Tebak Suara",
+    "kategori": "Perkenalan",
+    "deskripsi": "Mata terpejam; peserta lain mengucapkan salam — tebak siapa.",
+    "durasiMenit": 10,
+    "pesertaMin": 6,
+    "pesertaMax": 20,
+    "usia": "SD",
+    "perluAlat": true,
+    "alat": [
+      "Kain penutup mata (opsional)"
+    ],
+    "tujuan": [
+      "Mengenal suara (identitas) teman sekelas",
+      "Melatih pendengaran aktif"
+    ],
+    "langkah": [
+      "Satu peserta maju, mata terpejam/tertutup.",
+      "Fasilitator menunjuk peserta lain untuk menyapa: \"Halo, siapa aku?\"",
+      "Boleh mengubah intonasi, tapi tidak boleh mengubah kata.",
+      "Tiga tebakan salah jadi juru tepuk; ganti peserta berikutnya."
+    ],
+    "variasi": [
+      "Peragakan gerakan (senyap) tanpa bersuara, tebak dari gerak.",
+      "Sampaikan satu fakta tentang diri, peserta menebak pemiliki suara/ fakta."
+    ],
+    "tips": [
+      "Dua putaran biasanya cukup sebelum bosan.",
+      "Awas peserta pemalu: izinkan hanya menjadi penyapa, bukan penebak."
+    ],
+    "tags": [
+      "SD",
+      "indoor",
+      "ringan"
+    ]
+  },
+  {
+    "id": "gelar-tiga-titik",
+    "nama": "Tiga Titik Harapan",
+    "kategori": "Penutup",
+    "deskripsi": "Tulis tiga titik: satu perasaan, satu pelajaran, satu harapan.",
+    "durasiMenit": 10,
+    "pesertaMin": 4,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": true,
+    "alat": [
+      "Kertas kecil/kartu",
+      "Alat tulis"
+    ],
+    "tujuan": [
+      "Menutup sesi dengan makna personal",
+      "Menyediakan data evaluasi bagi guru"
+    ],
+    "langkah": [
+      "Bagikan kartu kecil; tulis perintah tiga titik di papan.",
+      "Titik 1: satu kata perasaan hari ini. Titik 2: satu pelajaran. Titik 3: satu harapan untuk pekan depan.",
+      "Kumpulkan acak; baca beberapa kartu (anonim) sebagai penutup.",
+      "Fasilitator menutup dengan pesan utama sesi."
+    ],
+    "variasi": [
+      "Tempel di dinding sebagai hutan harapan kelas.",
+      "Ambil 3 kartu acak sebagai bahan evaluasi lisan cepat."
+    ],
+    "tips": [
+      "Anonimitas membuat peserta jujur.",
+      "Percakapan penutup jangan melebihi waktu — peserta lelah di 15 menit terakhir."
+    ],
+    "tags": [
+      "penutup",
+      "dengan alat",
+      "evaluasi"
+    ]
+  },
+  {
+    "id": "gelar-apresiasi",
+    "nama": "Bintang Apresiasi",
+    "kategori": "Penutup",
+    "deskripsi": "Menuliskan apresiasi singkat untuk satu teman, dibacakan di lingkaran akhir.",
+    "durasiMenit": 15,
+    "pesertaMin": 6,
+    "pesertaMax": 30,
+    "usia": "SMP Umum",
+    "perluAlat": true,
+    "alat": [
+      "Kartu kecil",
+      "Alat tulis"
+    ],
+    "tujuan": [
+      "Menutup dengan rasa dihargai",
+      "Memperkuat ikatan kelompok"
+    ],
+    "langkah": [
+      "Setiap peserta menulis satu kalimat penghargaan untuk satu teman (acak atau ditunjuk).",
+      "Kartu dibacakan di lingkaran akhir, dari penerima (bukan penulis).",
+      "Penerima boleh respons satu kata.",
+      "Fasilitator menegaskan: satu apresiasi mengubah iklim kelas selama lebih lama dari yang kita kira."
+    ],
+    "variasi": [
+      "Tembok bintang: kartu ditempel di kelas selama sebulan.",
+      "Apresiasi kelompok: satu bintang untuk dinamika kelompok, bukan individu."
+    ],
+    "tips": [
+      "Tegaskan tulisannya spesifik (\"kamu sabar menjelaskan\" bukan \"kamu hebat\").",
+      "Pastikan setiap peserta menerima minimal satu kartu — fasilitator mengisi yang kurang."
+    ],
+    "tags": [
+      "penutup",
+      "positif",
+      "dengan alat"
+    ]
+  },
+  {
+    "id": "gelar-isyarat",
+    "nama": "Isyarat Penutup",
+    "kategori": "Penutup",
+    "deskripsi": "Kelas menciptakan isyarat penutup yang dipakai setiap akhir sesi.",
+    "durasiMenit": 8,
+    "pesertaMin": 4,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Ritual penutup yang membekas",
+      "Menandai transisi dari belajar kembali ke aktivitas lain"
+    ],
+    "langkah": [
+      "Diskusikan singkat: manfaat ritual penutup bagi kelas.",
+      "Ajak kelas menciptakan isyarat: gerakan + kata penutup.",
+      "Latih bersama 3 kali hingga kompak dan meriah.",
+      "Sepakati dipakai setiap akhir sesi selama satu unit/semester."
+    ],
+    "variasi": [
+      "Ganti isyarat tiap bulan agar tidak membosankan.",
+      "Sisipkan tepuk fokus: tepuk tiga kali diikuti hening dua detik."
+    ],
+    "tips": [
+      "Ritual bekerja jika konsisten — jangan lewariant di sesi berikutnya.",
+      "Cocok untuk kelas dengan anak yang sulit transisi kegiatan."
+    ],
+    "tags": [
+      "penutup",
+      "ritual",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "gelar-komitmusik",
+    "nama": "Kompetisi Komitmen",
+    "kategori": "Penutup",
+    "deskripsi": "Tiap peserta memilih satu komitmen mini; dibacakan bergaya panggung 10 detik.",
+    "durasiMenit": 15,
+    "pesertaMin": 6,
+    "pesertaMax": 30,
+    "usia": "SMP Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Menjelaskan rencana tindak nyata pasca sesi",
+      "Mengecilkan komitmen agar benar-benar dilakukan"
+    ],
+    "langkah": [
+      "Setiap peserta memilih satu komitmen mini (maksimal 10 menit per pekan).",
+      "Beri 2 menit menuliskan/menyiapkan kalimat komitmen.",
+      "Majulah ke depan 10 detik: sebut nama, komitmen, satu kata kunci.",
+      "Kelas menjawab dengan tepuk bebas sebagai tanda mendukung."
+    ],
+    "variasi": [
+      "Sepakati titik pelaporan: komitmen dibahas lagi di sesi berikutnya.",
+      "Mode tim: komitmen bersama lebih besar, diikuti komitmen mini individu."
+    ],
+    "tips": [
+      "Komitmen kecil yang selesai lebih baik daripada besar yang terbengkalai.",
+      "Catat komitmen kelas di papan sebagai ingatan visual."
+    ],
+    "tags": [
+      "penutup",
+      "tindak lanjut",
+      "tanpa alat"
+    ]
+  },
+  {
+    "id": "iklim-check-in",
+    "nama": "Cek Iklim Kelas",
+    "kategori": "Penutup",
+    "deskripsi": "Cepat mengukur suasana kelas dengan isyarat tangan sebagai penutup.",
+    "durasiMenit": 5,
+    "pesertaMin": 4,
+    "pesertaMax": 999,
+    "usia": "Umum",
+    "perluAlat": false,
+    "alat": [],
+    "tujuan": [
+      "Umpan balik cepat bagi guru",
+      "Melibatkan peserta dalam perbaikan iklim kelas"
+    ],
+    "langkah": [
+      "Sepakati skala isyarat: 1 jempol = tidak nyaman, 5 jari = luar biasa.",
+      "Bacakan satu per satu pernyataan pendek (materi, tempo, suasana).",
+      "Pada hitungan tiga, semua peserta menunjukkan isyarat.",
+      "Fasilitator membaca rata-rata dan menjanjikan satu penyesuaian."
+    ],
+    "variasi": [
+      "Gunakan stiker/ tempat duduk warna untuk versi lisan.",
+      "Buat grafik mingguan di papan kelas untuk melihat tren."
+    ],
+    "tips": [
+      "Jangan berdebat soal nilai individual dalam forum kelas.",
+      "Satu penyesuaian nyata lebih berharga daripada banyak janji."
+    ],
+    "tags": [
+      "evaluasi",
+      "cepat",
+      "tanpa alat"
+    ]
+  }
+]

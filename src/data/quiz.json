@@ -1,0 +1,72 @@
+[
+  {
+    "pertanyaan": "Ibu kota Provinsi Jawa Barat adalah…",
+    "opsi": ["Semarang", "Bandung", "Surabaya", "Serang"],
+    "jawaban": 1,
+    "penjelasan": "Bandung adalah ibu kota Jawa Barat."
+  },
+  {
+    "pertanyaan": "Hasil dari 7 × 8 adalah…",
+    "opsi": ["54", "56", "58", "64"],
+    "jawaban": 1,
+    "penjelasan": "7 × 8 = 56."
+  },
+  {
+    "pertanyaan": "Planet terdekat dengan Matahari adalah…",
+    "opsi": ["Venus", "Bumi", "Merkurius", "Mars"],
+    "jawaban": 2,
+    "penjelasan": "Merkurius mengorbit paling dekat Matahari."
+  },
+  {
+    "pertanyaan": "Proses tumbuhan menghasilkan makanan dengan bantuan cahaya disebut…",
+    "opsi": ["Respirasi", "Fotosintesis", "Transpirasi", "Fermentasi"],
+    "jawaban": 1,
+    "penjelasan": "Fotosintesis mengubah air + CO₂ menjadi glukosa dengan energi cahaya."
+  },
+  {
+    "pertanyaan": "Pancasila sila ke-3 berbunyi…",
+    "opsi": [
+      "Persatuan Indonesia",
+      "Ketuhanan Yang Maha Esa",
+      "Kemanusiaan yang adil dan beradab",
+      "Keadilan sosial bagi seluruh rakyat Indonesia"
+    ],
+    "jawaban": 0,
+    "penjelasan": "Sila ke-3: Persatuan Indonesia."
+  },
+  {
+    "pertanyaan": "Satu kilometer sama dengan … meter",
+    "opsi": ["10", "100", "1.000", "10.000"],
+    "jawaban": 2,
+    "penjelasan": "1 km = 1.000 m."
+  },
+  {
+    "pertanyaan": "Alat pernapasan ikan adalah…",
+    "opsi": ["Paru-paru", "Insang", "Trakea", "Kulit"],
+    "jawaban": 1,
+    "penjelasan": "Ikan bernapas dengan insang."
+  },
+  {
+    "pertanyaan": "Kalimat berikut yang menggunakan tanda baca dengan tepat adalah…",
+    "opsi": [
+      "Ibu memasak, sayur sop.",
+      "Ibu memasak sayur sop.",
+      "Ibu, memasak sayur sop",
+      "Ibu memasak sayur, sop."
+    ],
+    "jawaban": 1,
+    "penjelasan": "Tidak perlu koma pada objek biasa."
+  },
+  {
+    "pertanyaan": "Lambang kimia untuk emas adalah…",
+    "opsi": ["Ag", "Au", "Fe", "Cu"],
+    "jawaban": 1,
+    "penjelasan": "Au dari bahasa Latin aurum."
+  },
+  {
+    "pertanyaan": "Bangun datar yang memiliki tiga sisi disebut…",
+    "opsi": ["Persegi", "Lingkaran", "Segitiga", "Jajar genjang"],
+    "jawaban": 2,
+    "penjelasan": "Segitiga memiliki tiga sisi dan tiga sudut."
+  }
+]
